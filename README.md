@@ -8,3 +8,4 @@ Gasket: https://www.mcmaster.com/1279N66/
 
 Screws: https://www.mcmaster.com/92095A189/
 
+Feet: https://store.aeternus.co/products/bumpons
